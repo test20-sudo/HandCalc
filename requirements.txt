@@ -6,3 +6,5 @@ pandas
 pillow
 sympy
 matplotlib
+tensorflow==2.9.0
+gunicorn
