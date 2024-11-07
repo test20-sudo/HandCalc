@@ -1,3 +1,4 @@
+flask
 keras==2.9.0
 ipykernel
 opencv-python
